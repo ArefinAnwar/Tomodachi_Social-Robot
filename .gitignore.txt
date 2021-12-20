@@ -1,2 +1,2 @@
-/ok_code
-/pulse_oximeter
+./ok_code
+./pulse_oximeter
